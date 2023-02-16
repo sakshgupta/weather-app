@@ -17,7 +17,7 @@ Follow the below steps to install and run this project on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/weather-website.git
+   git clone https://github.com/sakshgupta/weather-app.git
    ```
 2. Install the dependencies:
 
@@ -47,3 +47,7 @@ Enter the name of a city in the search bar to view the current weather of that c
 * OpenWeatherMap API
 * Luxon
 * React Toastify
+
+## Deployment
+
+This project is deployed on Vercel. You can view the deployed version of the application by visiting [https://weather-app-sakshgupta.vercel.app](https://weather-app-sakshgupta.vercel.app/ "Vercel Hosted Link").
