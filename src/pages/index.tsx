@@ -39,7 +39,7 @@ export default function Home() {
 
   // testFetchWeather();
 
-  const [query, setQuery] = useState({ q: "berlin" });
+  const [query, setQuery] = useState({ q: "Lucknow" });
   const [units, setUnits] = useState("metric");
   const [weather, setWeather] = useState<WeatherData | null>(null);
 
