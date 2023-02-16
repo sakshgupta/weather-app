@@ -17,7 +17,7 @@ Follow the below steps to install and run this project on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/weather-website.git
+   git clone https://github.com/sakshgupta/weather-app.git
    ```
 2. Install the dependencies:
 
